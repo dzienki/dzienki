@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working in InMotion Labs
 
-- 🌱 i'm currently study Data Science 
+- 🌱 I'm currently study Data Science 
+
+- :memo: I'm currently learning about Smart contracts
 
 ### ⚙️ &nbsp; Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px">
 <p align="left">
