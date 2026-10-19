@@ -10,4 +10,4 @@ Most of my work lives in private company repositories, so this profile shows onl
 **DevOps:** Docker, Kubernetes, Helm, Jenkins, Terraform<br>
 **Data and monitoring:** MongoDB, PostgreSQL, Redis, Kafka, Prometheus, Grafana
 
-[LinkedIn](https://www.linkedin.com/in/dawid-zienkiewicz-7256ba195/) · [dzienki.com](https://dzienki.com) · d.zienkiewicz97@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dawid-zienkiewicz-7256ba195/) · [dzienki.com](https://dzienki.com) · hello@dzienki.com
